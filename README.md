@@ -1,2 +1,2 @@
-# UE4-Mod-Menu_Example-Patreon
- This is a Patreon exclusive UE4-Mod-Menu Example Project.
+# UE4-Mod-Menu_Example
+ This is a UE4-Mod-Menu Example Project.
